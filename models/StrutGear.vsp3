@@ -1,0 +1,740 @@
+<?xml version="1.0"?>
+<Vsp_Geometry>
+  <Version>4</Version>
+  <Vehicle>
+    <ParmContainer>
+      <ID>ZKLIEZRWQN</ID>
+      <Name>Vehicle</Name>
+      <BBox>
+        <X_Len Value="0.000000000000000000e+00" ID="YHRBVYOIKXM"/>
+        <X_Min Value="0.000000000000000000e+00" ID="OVWHJDKPZGG"/>
+        <Y_Len Value="0.000000000000000000e+00" ID="MZLSXAHRJIA"/>
+        <Y_Min Value="0.000000000000000000e+00" ID="ZADXUHCBYKP"/>
+        <Z_Len Value="0.000000000000000000e+00" ID="XGUOVSOUFPL"/>
+        <Z_Min Value="0.000000000000000000e+00" ID="JQQLLFDNMSP"/>
+      </BBox>
+      <ExportFlag>
+        <CompGeom_CSV_Export Value="1.000000000000000000e+00" ID="EBQBWJWBOZV"/>
+        <DegenGeom_CSV_Export Value="1.000000000000000000e+00" ID="YSCZWMFTGJR"/>
+        <DegenGeom_M_Export Value="1.000000000000000000e+00" ID="RPHOGATTMCR"/>
+        <DragBuild_TSV_Export Value="1.000000000000000000e+00" ID="DXRWIXRSKWU"/>
+      </ExportFlag>
+      <FitModel>
+        <Select_Box_Flag Value="0.000000000000000000e+00" ID="DTUGISYWNEO"/>
+        <Select_One_Flag Value="0.000000000000000000e+00" ID="HCTCSWNUZLK"/>
+        <U_TargetPt Value="0.000000000000000000e+00" ID="LOJSGYMDYVL"/>
+        <U_Type Value="1.000000000000000000e+00" ID="FPZCPOZVQXP"/>
+        <W_TargetPt Value="0.000000000000000000e+00" ID="BSHLHWPRCHI"/>
+        <W_Type Value="1.000000000000000000e+00" ID="MQWJXUMCBLE"/>
+      </FitModel>
+      <STEPSettings>
+        <MergePoints Value="1.000000000000000000e+00" ID="VYSTGTBMRTL"/>
+        <SplitSurfs Value="0.000000000000000000e+00" ID="YCTEVYKRPGU"/>
+        <ToCubic Value="0.000000000000000000e+00" ID="OLZCYTFMEIE"/>
+        <Tolerance Value="9.999999999999999547e-07" ID="ZNADYCNWCOA"/>
+      </STEPSettings>
+      <STLSettings>
+        <MultiSolid Value="0.000000000000000000e+00" ID="BHLEMVOCAAK"/>
+      </STLSettings>
+    </ParmContainer>
+    <Lights>
+      <Num_of_Lights>8</Num_of_Lights>
+      <Light0>
+        <ParmContainer>
+          <ID>VVBFNYIIGL</ID>
+          <Name>Default</Name>
+          <Light_Parm>
+            <ActiveFlag Value="1.000000000000000000e+00" ID="WMZKLJZCPIG"/>
+            <Ambient Value="5.000000000000000000e-01" ID="KXVIKVZNBYM"/>
+            <Diffuse Value="3.499999999999999778e-01" ID="TSSHWFZHKPM"/>
+            <Specular Value="1.000000000000000000e+00" ID="AYKKXVKUKRM"/>
+            <X Value="1.000000000000000000e+01" ID="NQOINQZJQQA"/>
+            <Y Value="-5.000000000000000000e+01" ID="XRUEWKKXWCZ"/>
+            <Z Value="2.000000000000000000e+01" ID="MIZTEUCUJUR"/>
+          </Light_Parm>
+        </ParmContainer>
+      </Light0>
+      <Light1>
+        <ParmContainer>
+          <ID>WQBQXCXWKR</ID>
+          <Name>Default</Name>
+          <Light_Parm>
+            <ActiveFlag Value="1.000000000000000000e+00" ID="BYIUIUQZJVH"/>
+            <Ambient Value="5.000000000000000000e-01" ID="NJRQTSZIPML"/>
+            <Diffuse Value="5.000000000000000000e-01" ID="ZFJLDHBVWBR"/>
+            <Specular Value="1.000000000000000000e+00" ID="SCUGJWWZTGT"/>
+            <X Value="1.000000000000000000e+01" ID="CHQNARYSLSF"/>
+            <Y Value="1.500000000000000000e+01" ID="PUCUKUEOBTF"/>
+            <Z Value="3.000000000000000000e+01" ID="SNYUZMHOYZV"/>
+          </Light_Parm>
+        </ParmContainer>
+      </Light1>
+      <Light2>
+        <ParmContainer>
+          <ID>GNVXIIMKIW</ID>
+          <Name>Default</Name>
+          <Light_Parm>
+            <ActiveFlag Value="1.000000000000000000e+00" ID="UXBCHXXFWQO"/>
+            <Ambient Value="0.000000000000000000e+00" ID="DTYFUEGVUKX"/>
+            <Diffuse Value="5.000000000000000000e-01" ID="GGRWLANRXOE"/>
+            <Specular Value="5.000000000000000000e-01" ID="IBXYJAUTVYP"/>
+            <X Value="-5.000000000000000000e+01" ID="JWADYPNLTXQ"/>
+            <Y Value="3.000000000000000000e+01" ID="BUYWKVQNWCF"/>
+            <Z Value="1.000000000000000000e+01" ID="KAJMFXTRZJI"/>
+          </Light_Parm>
+        </ParmContainer>
+      </Light2>
+      <Light3>
+        <ParmContainer>
+          <ID>ZBVSMSOZDG</ID>
+          <Name>Default</Name>
+          <Light_Parm>
+            <ActiveFlag Value="0.000000000000000000e+00" ID="ZMQOXTGDJZF"/>
+            <Ambient Value="0.000000000000000000e+00" ID="KVPQBVUNAPM"/>
+            <Diffuse Value="0.000000000000000000e+00" ID="NWFPVZQXHVI"/>
+            <Specular Value="0.000000000000000000e+00" ID="WHXTWVSOAVD"/>
+            <X Value="0.000000000000000000e+00" ID="JZQVUTZNMSO"/>
+            <Y Value="0.000000000000000000e+00" ID="BAOVQOPTCFP"/>
+            <Z Value="0.000000000000000000e+00" ID="UBCRWVYHJVC"/>
+          </Light_Parm>
+        </ParmContainer>
+      </Light3>
+      <Light4>
+        <ParmContainer>
+          <ID>VRMBPDJJCY</ID>
+          <Name>Default</Name>
+          <Light_Parm>
+            <ActiveFlag Value="0.000000000000000000e+00" ID="HMXRJJMQBGW"/>
+            <Ambient Value="0.000000000000000000e+00" ID="MELIHEPWWBC"/>
+            <Diffuse Value="0.000000000000000000e+00" ID="XYXWBIVEAQX"/>
+            <Specular Value="0.000000000000000000e+00" ID="PLAXGIAEHJZ"/>
+            <X Value="0.000000000000000000e+00" ID="VYRGXBQRTOU"/>
+            <Y Value="0.000000000000000000e+00" ID="OFVTLBMLKCA"/>
+            <Z Value="0.000000000000000000e+00" ID="HNABEOPMBHG"/>
+          </Light_Parm>
+        </ParmContainer>
+      </Light4>
+      <Light5>
+        <ParmContainer>
+          <ID>PLQNMJNQQX</ID>
+          <Name>Default</Name>
+          <Light_Parm>
+            <ActiveFlag Value="0.000000000000000000e+00" ID="TUWNJGARLSQ"/>
+            <Ambient Value="0.000000000000000000e+00" ID="INUWQPRBEWY"/>
+            <Diffuse Value="0.000000000000000000e+00" ID="VPKEONCKKEU"/>
+            <Specular Value="0.000000000000000000e+00" ID="ZXOHNQZFDIK"/>
+            <X Value="0.000000000000000000e+00" ID="IIPWIMIHTST"/>
+            <Y Value="0.000000000000000000e+00" ID="XHJUKUTFFMQ"/>
+            <Z Value="0.000000000000000000e+00" ID="TMEQSYQNWFC"/>
+          </Light_Parm>
+        </ParmContainer>
+      </Light5>
+      <Light6>
+        <ParmContainer>
+          <ID>DADOZXNKSP</ID>
+          <Name>Default</Name>
+          <Light_Parm>
+            <ActiveFlag Value="0.000000000000000000e+00" ID="LZEZERJPMCV"/>
+            <Ambient Value="0.000000000000000000e+00" ID="IANZNRYPGNW"/>
+            <Diffuse Value="0.000000000000000000e+00" ID="SXNXHSWGETR"/>
+            <Specular Value="0.000000000000000000e+00" ID="UCPAACZXWYI"/>
+            <X Value="0.000000000000000000e+00" ID="YTXBBOWCXWA"/>
+            <Y Value="0.000000000000000000e+00" ID="JDWZEKHYFOL"/>
+            <Z Value="0.000000000000000000e+00" ID="LAZXNDUJBEW"/>
+          </Light_Parm>
+        </ParmContainer>
+      </Light6>
+      <Light7>
+        <ParmContainer>
+          <ID>GHOBHWETSY</ID>
+          <Name>Default</Name>
+          <Light_Parm>
+            <ActiveFlag Value="0.000000000000000000e+00" ID="MSAHYEURZGP"/>
+            <Ambient Value="0.000000000000000000e+00" ID="DAZVXWAQTXA"/>
+            <Diffuse Value="0.000000000000000000e+00" ID="WOXMYQGJPWN"/>
+            <Specular Value="0.000000000000000000e+00" ID="LOTIZCQBVKU"/>
+            <X Value="0.000000000000000000e+00" ID="FDMFZFBHRSU"/>
+            <Y Value="0.000000000000000000e+00" ID="HHDREBNOFIJ"/>
+            <Z Value="0.000000000000000000e+00" ID="OYJREDWWJBF"/>
+          </Light_Parm>
+        </ParmContainer>
+      </Light7>
+    </Lights>
+    <Labels>
+      <Num_of_Labels>0</Num_of_Labels>
+    </Labels>
+    <Geom>
+      <CustomGeom>
+        <StrutLength Value="3.000000000000000000e+01" ID="WJGTLVPWIUS"/>
+        <StrutDiameter Value="3.000000000000000000e+00" ID="ZCUZWUADGNV"/>
+        <TireDiameter Value="1.800000000000000000e+01" ID="ABSQRPPUIYL"/>
+        <TireThickness Value="5.700000000000000178e+00" ID="DJIWZSFUSEH"/>
+        <WheelDiameter Value="8.000000000000000000e+00" ID="CVVBEOQBATK"/>
+        <UnitMult Value="1.000000000000000000e+00" ID="KANSMURTDOW"/>
+        <TireSelect Value="0.000000000000000000e+00" ID="XANPMOUDWZP"/>
+        <Units Value="0.000000000000000000e+00" ID="UNFMNMPGRMW"/>
+        <PresetTrigger Value="0.000000000000000000e+00" ID="DIIAFFFSABP"/>
+        <WhlFlag Value="0.000000000000000000e+00" ID="KRJOPNPIIUF"/>
+        <ScriptFileModule>StrutGear</ScriptFileModule>
+        <ScriptFileContents>//== Basic Landing Gear Model for OpenVSP v3 ==//&#xD;
+//== Created under SBIR contract for AFRL by Empirical Systems Aerospace, Inc. ==//&#xD;
+//== Michael Waddington ==//&#xD;
+//== December 2014 ==//&#xD;
+&#xD;
+//==== Init Is Called Once During Each Custom Geom Construction  ============================//&#xD;
+//==== Avoid Global Variables Unless You Want Shared With All Custom Geoms of This Type =====//&#xD;
+void Init()&#xD;
+{&#xD;
+	//==== Add Parm Types  =====//&#xD;
+	string slength = AddParm( PARM_DOUBLE_TYPE, "StrutLength", "Design" );&#xD;
+	SetParmValLimits( slength, 30, 0.001, 1.0e12 );&#xD;
+&#xD;
+	string sdiameter = AddParm( PARM_DOUBLE_TYPE, "StrutDiameter", "Design" );&#xD;
+	SetParmValLimits( sdiameter, 3, 0.001, 1.0e12 );&#xD;
+&#xD;
+	string tdiameter = AddParm( PARM_DOUBLE_TYPE, "TireDiameter", "Design" );&#xD;
+	SetParmValLimits( tdiameter, 18, 0.001, 1e12 );&#xD;
+&#xD;
+	string tthick = AddParm( PARM_DOUBLE_TYPE, "TireThickness", "Design" );&#xD;
+	SetParmValLimits( tthick, 5.7, 0.001, 1e12 );&#xD;
+&#xD;
+	string wdiameter = AddParm( PARM_DOUBLE_TYPE, "WheelDiameter", "Design" );&#xD;
+	SetParmValLimits( wdiameter, 8, 0.001, 1e12 );&#xD;
+&#xD;
+	string umult = AddParm( PARM_DOUBLE_TYPE, "UnitMult", "Design" );&#xD;
+	SetParmValLimits( umult, 1, 0.001, 1e12 );&#xD;
+&#xD;
+	string tsel = AddParm( PARM_INT_TYPE, "TireSelect", "Design" );&#xD;
+	SetParmValLimits( tsel, 0, 0, 100 );&#xD;
+&#xD;
+	string units = AddParm( PARM_INT_TYPE, "Units", "Design" );&#xD;
+	SetParmValLimits( units, 0, 0, 100 );&#xD;
+&#xD;
+	string preset_trigger = AddParm( PARM_BOOL_TYPE, "PresetTrigger", "Design" );&#xD;
+	SetParmVal( preset_trigger, 0 );&#xD;
+&#xD;
+	string scnd_whl = AddParm( PARM_BOOL_TYPE, "WhlFlag", "Design" );&#xD;
+	SetParmVal( scnd_whl, 0 );&#xD;
+&#xD;
+	//==== Adjust Tessellation ====//&#xD;
+	string geom_id = GetCurrCustomGeom();&#xD;
+	SetParmVal( GetParm( geom_id, "Tess_U", "Shape" ), 27 );&#xD;
+	SetParmVal( GetParm( geom_id, "Tess_W", "Shape" ), 27 );&#xD;
+}&#xD;
+&#xD;
+//==== InitGui Is Called Once During Each Custom Geom Construction ====//&#xD;
+void InitGui()&#xD;
+{&#xD;
+	AddGui( GDEV_TAB, "Design" );&#xD;
+&#xD;
+	AddGui( GDEV_YGAP );&#xD;
+	AddGui( GDEV_DIVIDER_BOX, "Gear Strut" );&#xD;
+	AddGui( GDEV_SLIDER_ADJ_RANGE_INPUT, "Length", "StrutLength", "Design" );&#xD;
+	AddGui( GDEV_SLIDER_ADJ_RANGE_INPUT, "Diameter", "StrutDiameter", "Design" );&#xD;
+&#xD;
+	AddGui( GDEV_YGAP );&#xD;
+	AddGui( GDEV_DIVIDER_BOX, "Wheel" );&#xD;
+	AddGui( GDEV_SLIDER_ADJ_RANGE_INPUT, "Wheel Dia", "WheelDiameter", "Design" );&#xD;
+	AddGui( GDEV_SLIDER_ADJ_RANGE_INPUT, "Tire Dia", "TireDiameter", "Design" );&#xD;
+	AddGui( GDEV_SLIDER_ADJ_RANGE_INPUT, "Width", "TireThickness", "Design" );&#xD;
+	&#xD;
+	AddGui( GDEV_YGAP );&#xD;
+	AddGui( GDEV_CHOICE, "Tires:", "TireSelect", "Design" );&#xD;
+	AddGui( GDEV_ADD_CHOICE_ITEM, "18x5.7-8" );&#xD;
+	AddGui( GDEV_ADD_CHOICE_ITEM, "22x6.6-10" );&#xD;
+	AddGui( GDEV_ADD_CHOICE_ITEM, "22x7.7-9" );&#xD;
+	AddGui( GDEV_ADD_CHOICE_ITEM, "23.5x7.5-10" );&#xD;
+	AddGui( GDEV_ADD_CHOICE_ITEM, "27.75x8.75-14.5" );&#xD;
+	AddGui( GDEV_ADD_CHOICE_ITEM, "30x11.5-14.5" );&#xD;
+	AddGui( GDEV_ADD_CHOICE_ITEM, "36x11-18" );&#xD;
+	AddGui( GDEV_ADD_CHOICE_ITEM, "37x11.5-18" );&#xD;
+	AddGui( GDEV_CHOICE, "Units:", "Units", "Design" );&#xD;
+	AddGui( GDEV_ADD_CHOICE_ITEM, "in" );&#xD;
+	AddGui( GDEV_ADD_CHOICE_ITEM, "ft" );&#xD;
+	AddGui( GDEV_ADD_CHOICE_ITEM, "cm" );&#xD;
+	AddGui( GDEV_ADD_CHOICE_ITEM, "m" );&#xD;
+	AddGui( GDEV_TRIGGER_BUTTON, "Go", "PresetTrigger", "Design" );&#xD;
+&#xD;
+	AddGui( GDEV_YGAP );&#xD;
+	AddGui( GDEV_TOGGLE_BUTTON, "Dual Wheel", "WhlFlag", "Design" );&#xD;
+} &#xD;
+&#xD;
+//==== UpdateGui Is Called Every Time The Gui is Updated ====//&#xD;
+void UpdateGui()&#xD;
+{	&#xD;
+} &#xD;
+&#xD;
+//==== UpdateSurf Is Called Every Time The Geom is Updated ====//&#xD;
+void UpdateSurf()&#xD;
+{&#xD;
+	string geom_id = GetCurrCustomGeom();&#xD;
+&#xD;
+	//==== Check for Pre-set Trigger Before Getting Current Values ====//&#xD;
+	string preset_trigger_parm = GetParm( geom_id, "PresetTrigger", "Design" );&#xD;
+	if ( GetBoolParmVal( preset_trigger_parm ) )&#xD;
+	{&#xD;
+		int tire_choice = GetIntParmVal( GetParm( geom_id, "TireSelect", "Design" ) );&#xD;
+		int unit_choice = GetIntParmVal( GetParm( geom_id, "Units", "Design" ) );&#xD;
+&#xD;
+		//==== Check Choices and Set Values ====//&#xD;
+		if ( unit_choice == 0 )	// inches&#xD;
+		{&#xD;
+			SetParmVal( GetParm( geom_id, "UnitMult", "Design" ), 1 );&#xD;
+		}&#xD;
+		else if ( unit_choice == 1 ) // feet&#xD;
+		{&#xD;
+			SetParmVal( GetParm( geom_id, "UnitMult", "Design" ), 0.0833333333 );&#xD;
+		}&#xD;
+		else if ( unit_choice == 2 ) // centimeters&#xD;
+		{&#xD;
+			SetParmVal( GetParm( geom_id, "UnitMult", "Design"), 2.54 );&#xD;
+		}&#xD;
+		else if ( unit_choice == 3 ) // meters&#xD;
+		{&#xD;
+			SetParmVal( GetParm( geom_id, "UnitMult", "Design" ), 0.0254 );&#xD;
+		}&#xD;
+&#xD;
+		if ( tire_choice == 0 ) // 18x5.7-8, F-16 nose gear&#xD;
+		{&#xD;
+			double um = GetParmVal( GetParm( geom_id, "UnitMult", "Design" ) );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutLength", "Design" ), 30*um );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutDiameter", "Design" ), 3*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireDiameter", "Design" ), 18*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireThickness", "Design" ), 5.7*um );&#xD;
+			SetParmVal( GetParm( geom_id, "WheelDiameter", "Design" ), 8*um );&#xD;
+		}&#xD;
+		else if ( tire_choice == 1 ) // 22x6.6-10, F-18C,D,E,F nose gear&#xD;
+		{&#xD;
+			double um = GetParmVal( GetParm( geom_id, "UnitMult", "Design" ) );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutLength", "Design" ), 30*um );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutDiameter", "Design" ), 3*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireDiameter", "Design" ), 22*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireThickness", "Design" ), 6.6*um );&#xD;
+			SetParmVal( GetParm( geom_id, "WheelDiameter", "Design" ), 10*um );&#xD;
+		}&#xD;
+		else if ( tire_choice == 2 ) // 22x7.7-9,  F-15E nose gear&#xD;
+		{&#xD;
+			double um = GetParmVal( GetParm( geom_id, "UnitMult", "Design" ) );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutLength", "Design" ), 30*um );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutDiameter", "Design" ), 3*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireDiameter", "Design" ), 22*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireThickness", "Design" ), 7.7*um );&#xD;
+			SetParmVal( GetParm( geom_id, "WheelDiameter", "Design" ), 9*um );&#xD;
+		}&#xD;
+		else if ( tire_choice == 3 ) // 23.5x7.5-10, F-16, F-22 nose gear&#xD;
+		{&#xD;
+			double um = GetParmVal( GetParm( geom_id, "UnitMult", "Design" ) );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutLength", "Design" ), 30*um );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutDiameter", "Design" ), 3*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireDiameter", "Design" ), 23.5*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireThickness", "Design" ), 7.5*um );&#xD;
+			SetParmVal( GetParm( geom_id, "WheelDiameter", "Design" ), 10*um );&#xD;
+		}&#xD;
+		else if ( tire_choice == 4 ) // 27.75x8.75-14.5, F-16 main gear&#xD;
+		{&#xD;
+			double um = GetParmVal( GetParm( geom_id, "UnitMult", "Design" ) );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutLength", "Design" ), 50*um );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutDiameter", "Design" ), 5*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireDiameter", "Design" ), 27.75*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireThickness", "Design" ), 8.75*um );&#xD;
+			SetParmVal( GetParm( geom_id, "WheelDiameter", "Design" ), 14.5*um );&#xD;
+		}&#xD;
+		else if ( tire_choice == 5 ) // 30x11.5-14.5, F-18C,D,E,F main gear&#xD;
+		{&#xD;
+			double um = GetParmVal( GetParm( geom_id, "UnitMult", "Design" ) );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutLength", "Design" ), 50*um );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutDiameter", "Design" ), 5*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireDiameter", "Design" ), 30*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireThickness", "Design" ), 11.5*um );&#xD;
+			SetParmVal( GetParm( geom_id, "WheelDiameter", "Design" ), 14.5*um );&#xD;
+		}&#xD;
+		else if ( tire_choice == 6 ) // 36x11-18, F-15E main gear&#xD;
+		{&#xD;
+			double um = GetParmVal( GetParm( geom_id, "UnitMult", "Design" ) );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutLength", "Design" ), 50*um );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutDiameter", "Design" ), 5*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireDiameter", "Design" ), 36*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireThickness", "Design" ), 11*um );&#xD;
+			SetParmVal( GetParm( geom_id, "WheelDiameter", "Design" ), 18*um );&#xD;
+		}&#xD;
+		else if ( tire_choice == 7 ) // 37x11.5-18, F-22 main gear&#xD;
+		{&#xD;
+			double um = GetParmVal( GetParm( geom_id, "UnitMult", "Design" ) );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutLength", "Design" ), 50*um );&#xD;
+			SetParmVal( GetParm( geom_id, "StrutDiameter", "Design" ), 5*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireDiameter", "Design" ), 37*um );&#xD;
+			SetParmVal( GetParm( geom_id, "TireThickness", "Design" ), 11.5*um );&#xD;
+			SetParmVal( GetParm( geom_id, "WheelDiameter", "Design" ), 18*um );&#xD;
+		}&#xD;
+	&#xD;
+		//==== Reset Trigger ====//&#xD;
+		SetParmVal( preset_trigger_parm, 0 );&#xD;
+	}&#xD;
+&#xD;
+	//==== Get Current Values ====//&#xD;
+	double strt_len = GetParmVal( GetParm( geom_id, "StrutLength", "Design" ) );&#xD;
+	double strt_dia = GetParmVal( GetParm( geom_id, "StrutDiameter", "Design" ) );&#xD;
+	double tire_dia = GetParmVal( GetParm( geom_id, "TireDiameter", "Design" ) );&#xD;
+	double tire_th = GetParmVal( GetParm( geom_id, "TireThickness", "Design" ) );&#xD;
+	double whl_dia = GetParmVal( GetParm( geom_id, "WheelDiameter", "Design" ) );&#xD;
+&#xD;
+	double um = GetParmVal( GetParm( geom_id, "UnitMult", "Design" ) );&#xD;
+&#xD;
+	//==== Clear Old Surfs ====//&#xD;
+	ClearXSecSurfs();&#xD;
+&#xD;
+	//==== Build Gear Strut ====//&#xD;
+	string strt_surf = AddXSecSurf();&#xD;
+	AppendXSec( strt_surf, XS_POINT );&#xD;
+	AppendXSec( strt_surf, XS_CIRCLE );&#xD;
+	AppendXSec( strt_surf, XS_CIRCLE );&#xD;
+	AppendXSec( strt_surf, XS_POINT );&#xD;
+&#xD;
+	strt_surf = GetXSecSurf( geom_id, 0 );&#xD;
+&#xD;
+	string xsec0 = GetXSec( strt_surf, 0 );&#xD;
+&#xD;
+	string xsec1 = GetXSec( strt_surf, 1 );&#xD;
+	SetParmVal( GetXSecParm( xsec1, "Circle_Diameter" ), strt_dia );&#xD;
+&#xD;
+	string xsec2 = GetXSec( strt_surf, 2 );&#xD;
+	SetParmVal( GetXSecParm( xsec2, "Circle_Diameter" ), strt_dia );&#xD;
+	SetCustomXSecLoc( xsec2, vec3d( strt_len, 0, 0 ) );&#xD;
+&#xD;
+	string xsec3 = GetXSec( strt_surf, 3 );&#xD;
+	// SetParmVal( GetXSecParm( xsec3, "Circle_Diameter" ), strt_dia );&#xD;
+	SetCustomXSecLoc( xsec3, vec3d( strt_len, 0, 0 ) );&#xD;
+&#xD;
+	//==== Build Wheel/Axel Assembly ====//&#xD;
+	string whax_surf = AddXSecSurf();&#xD;
+	BuildWhAx( whax_surf, strt_dia, tire_th, whl_dia, tire_dia, um );&#xD;
+&#xD;
+	Matrix4d whax_mat;&#xD;
+	whax_mat.translatef( strt_len - 0.5 * strt_dia, 0, 0 );&#xD;
+	whax_mat.rotateZ( 90 );&#xD;
+	SetXSecSurfGlobalXForm( whax_surf, whax_mat );&#xD;
+	&#xD;
+	//==== Check for Second Wheel ====//&#xD;
+	bool scnd_whl = GetBoolParmVal( GetParm( geom_id, "WhlFlag", "Design" ) );&#xD;
+	if ( scnd_whl )&#xD;
+	{&#xD;
+		string whax2_surf = AddXSecSurf();&#xD;
+		BuildWhAx( whax2_surf, strt_dia, tire_th, whl_dia, tire_dia, um );&#xD;
+		Matrix4d whax2_mat;&#xD;
+		whax2_mat.translatef( strt_len - 0.5 * strt_dia, 0, 0 );&#xD;
+		whax2_mat.rotateZ( -90 );&#xD;
+		SetXSecSurfGlobalXForm( whax2_surf, whax2_mat );&#xD;
+	}&#xD;
+&#xD;
+	SkinXSecSurf();&#xD;
+}&#xD;
+&#xD;
+//==== Create Wheel/Axel Assembly ====//&#xD;
+void BuildWhAx( string surf_id, double strt_dia, double tire_th, double whl_dia, double tire_dia,&#xD;
+		 double um )&#xD;
+{&#xD;
+	string xsec0 = AppendXSec( surf_id, XS_POINT );&#xD;
+	string xsec1 = AppendXSec( surf_id, XS_CIRCLE );&#xD;
+	string xsec2 = AppendXSec( surf_id, XS_CIRCLE );&#xD;
+	string xsec3 = AppendXSec( surf_id, XS_CIRCLE );&#xD;
+	string xsec4 = AppendXSec( surf_id, XS_CIRCLE );&#xD;
+	string xsec5 = AppendXSec( surf_id, XS_CIRCLE );&#xD;
+	string xsec6 = AppendXSec( surf_id, XS_POINT );&#xD;
+&#xD;
+	double ax_len = 0.5*strt_dia + 0.3333*tire_th;&#xD;
+&#xD;
+	SetParmVal( GetXSecParm( xsec1, "Circle_Diameter" ), strt_dia );&#xD;
+&#xD;
+	SetParmVal( GetXSecParm( xsec2, "Circle_Diameter" ), strt_dia );&#xD;
+	SetCustomXSecLoc( xsec2, vec3d( ax_len, 0, 0 ) );&#xD;
+&#xD;
+	SetParmVal( GetXSecParm( xsec3, "Circle_Diameter" ), whl_dia );&#xD;
+	SetCustomXSecLoc( xsec3, vec3d( ax_len, 0, 0 ) );&#xD;
+&#xD;
+	SetParmVal( GetXSecParm( xsec4, "Circle_Diameter" ), tire_dia );&#xD;
+	SetCustomXSecLoc( xsec4, vec3d( ax_len + 0.5*tire_th, 0, 0 ) );&#xD;
+	SetXSecContinuity( xsec4, 1 );&#xD;
+	SetXSecTanAngles( xsec4, XSEC_BOTH_SIDES, 0 );&#xD;
+	SetXSecTanStrengths( xsec4, XSEC_BOTH_SIDES, tire_th*1.5 );&#xD;
+&#xD;
+	SetParmVal( GetXSecParm( xsec5, "Circle_Diameter" ), whl_dia );&#xD;
+	SetCustomXSecLoc( xsec5, vec3d( ax_len + tire_th, 0, 0 ) );&#xD;
+	&#xD;
+	SetCustomXSecLoc( xsec6, vec3d( ax_len + tire_th, 0, 0 ) );&#xD;
+}</ScriptFileContents>
+      </CustomGeom>
+      <ParmContainer>
+        <ID>ARFBBFACRS</ID>
+        <Name>StrutGear</Name>
+        <Attach>
+          <Abs_Rel_Flag Value="1.000000000000000000e+00" ID="FBNDPOWJRZP"/>
+          <Rots_Attach_Flag Value="0.000000000000000000e+00" ID="BJTXETBPJSG"/>
+          <Trans_Attach_Flag Value="0.000000000000000000e+00" ID="KMSNOWQZCCO"/>
+          <U_Attach_Location Value="9.999999999999999547e-07" ID="JUCMMFIRDLY"/>
+          <V_Attach_Location Value="9.999999999999999547e-07" ID="DFGHIEEQVJH"/>
+        </Attach>
+        <BBox>
+          <X_Len Value="3.750000000000000000e+01" ID="IJUTVMMCZCR"/>
+          <X_Min Value="0.000000000000000000e+00" ID="HAUNTLZVIFP"/>
+          <Y_Len Value="1.202481000000000222e+01" ID="TUGIBLZFZKH"/>
+          <Y_Min Value="-1.500000000000000000e+00" ID="BPIGADYAJJZ"/>
+          <Z_Len Value="1.800000000000000000e+01" ID="ADOECNGERLX"/>
+          <Z_Min Value="-9.000000000000000000e+00" ID="EWMMIFRTVJH"/>
+        </BBox>
+        <Design>
+          <PresetTrigger Value="0.000000000000000000e+00" ID="DIIAFFFSABP"/>
+          <StrutDiameter Value="3.000000000000000000e+00" ID="ZCUZWUADGNV"/>
+          <StrutLength Value="3.000000000000000000e+01" ID="WJGTLVPWIUS"/>
+          <TireDiameter Value="1.800000000000000000e+01" ID="ABSQRPPUIYL"/>
+          <TireSelect Value="0.000000000000000000e+00" ID="XANPMOUDWZP"/>
+          <TireThickness Value="5.700000000000000178e+00" ID="DJIWZSFUSEH"/>
+          <UnitMult Value="1.000000000000000000e+00" ID="KANSMURTDOW"/>
+          <Units Value="0.000000000000000000e+00" ID="UNFMNMPGRMW"/>
+          <WheelDiameter Value="8.000000000000000000e+00" ID="CVVBEOQBATK"/>
+          <WhlFlag Value="0.000000000000000000e+00" ID="KRJOPNPIIUF"/>
+        </Design>
+        <EndCap>
+          <CapUMaxOption Value="0.000000000000000000e+00" ID="REHJVFBCBAY"/>
+          <CapUMaxTess Value="3.000000000000000000e+00" ID="SDVIYXIJNWJ"/>
+          <CapUMinOption Value="0.000000000000000000e+00" ID="YNCIHZIFYCE"/>
+          <CapUMinTess Value="3.000000000000000000e+00" ID="RLHJJXNCOJA"/>
+          <CapWMaxOption Value="0.000000000000000000e+00" ID="ARXQBTLQBZX"/>
+          <CapWMaxTess Value="3.000000000000000000e+00" ID="VATSSLUNKFN"/>
+          <CapWMinOption Value="0.000000000000000000e+00" ID="LMZLJTNSFFR"/>
+          <CapWMinTess Value="3.000000000000000000e+00" ID="AZSUZOHVUJA"/>
+        </EndCap>
+        <Mass_Props>
+          <Density Value="1.000000000000000000e+00" ID="OKMWXXPLERL"/>
+          <Mass_Area Value="1.000000000000000000e+00" ID="LCNXMVREPPR"/>
+          <Mass_Prior Value="0.000000000000000000e+00" ID="VOMYFQESKLH"/>
+          <Shell_Flag Value="0.000000000000000000e+00" ID="IOCRVWGPUIW"/>
+        </Mass_Props>
+        <Shape>
+          <Tess_U Value="2.700000000000000000e+01" ID="EONFGNGLDLO"/>
+          <Tess_W Value="2.900000000000000000e+01" ID="XVLODSZWGEQ"/>
+          <Wake Value="0.000000000000000000e+00" ID="IGTYSJUJXMA"/>
+        </Shape>
+        <Sym>
+          <Sym_Ancestor Value="1.000000000000000000e+00" ID="TCUFUMZLGIA"/>
+          <Sym_Ancestor_Origin_Flag Value="1.000000000000000000e+00" ID="BBHHMCNPXRW"/>
+          <Sym_Axial_Flag Value="0.000000000000000000e+00" ID="VYPFBQQBKSK"/>
+          <Sym_Planar_Flag Value="0.000000000000000000e+00" ID="XZKTTMDJHVE"/>
+          <Sym_Rot_N Value="2.000000000000000000e+00" ID="SARSVUNLHGQ"/>
+        </Sym>
+        <XForm>
+          <Abs_Or_Relitive_flag Value="1.000000000000000000e+00" ID="JDTRXFAYCET"/>
+          <Last_Scale Value="1.000000000000000000e+00" ID="IMNRSRYEGNB"/>
+          <Origin Value="0.000000000000000000e+00" ID="AYNYAOAIQNG"/>
+          <Scale Value="1.000000000000000000e+00" ID="KOUNEVYTLNQ"/>
+          <X_Location Value="0.000000000000000000e+00" ID="SGTQXOLDYWT"/>
+          <X_Rel_Location Value="0.000000000000000000e+00" ID="QYPYXWPVXBJ"/>
+          <X_Rel_Rotation Value="0.000000000000000000e+00" ID="UVRZDVLHJDY"/>
+          <X_Rotation Value="0.000000000000000000e+00" ID="PIBCQZNNCHD"/>
+          <Y_Location Value="0.000000000000000000e+00" ID="MSZUZLHCAMZ"/>
+          <Y_Rel_Location Value="0.000000000000000000e+00" ID="NWCVUKGABHB"/>
+          <Y_Rel_Rotation Value="0.000000000000000000e+00" ID="QRITVDIJCEK"/>
+          <Y_Rotation Value="0.000000000000000000e+00" ID="IZPFDWDXWTB"/>
+          <Z_Location Value="0.000000000000000000e+00" ID="QHJSWSNJDQX"/>
+          <Z_Rel_Location Value="0.000000000000000000e+00" ID="RPEQGPOTGIN"/>
+          <Z_Rel_Rotation Value="0.000000000000000000e+00" ID="LGFPGTCIACT"/>
+          <Z_Rotation Value="0.000000000000000000e+00" ID="TFDCADORWZO"/>
+        </XForm>
+      </ParmContainer>
+      <GeomBase>
+        <TypeName>StrutGear</TypeName>
+        <TypeID>9</TypeID>
+        <TypeFixed>0</TypeFixed>
+        <ParentID>NONE</ParentID>
+        <Child_List/>
+      </GeomBase>
+      <Material>
+        <Name>Default</Name>
+      </Material>
+      <Wire_Color>
+        <ParmContainer>
+          <ID>HTTRKJBROI</ID>
+          <Name>Default</Name>
+          <Color_Parm>
+            <Alpha Value="2.550000000000000000e+02" ID="NSCRQDCDMTA"/>
+            <Blue Value="2.550000000000000000e+02" ID="QRPWGRKYXOS"/>
+            <Green Value="0.000000000000000000e+00" ID="ZVROXEBQDKQ"/>
+            <Red Value="0.000000000000000000e+00" ID="ZWZHDOFFLXJ"/>
+          </Color_Parm>
+        </ParmContainer>
+      </Wire_Color>
+      <Textures>
+        <Num_of_Tex>0</Num_of_Tex>
+      </Textures>
+      <Geom>
+        <Set_List>1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, </Set_List>
+        <SubSurfaces/>
+      </Geom>
+    </Geom>
+  </Vehicle>
+  <Materials/>
+  <UserParmContainer>
+    <NumUserParms>16</NumUserParms>
+    <UserParm Value="0.000000000000000000e+00" ID="User_0" Name="User_0" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_1" Name="User_1" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_2" Name="User_2" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_3" Name="User_3" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_4" Name="User_4" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_5" Name="User_5" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_6" Name="User_6" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_7" Name="User_7" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_8" Name="User_8" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_9" Name="User_9" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_10" Name="User_10" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_11" Name="User_11" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_12" Name="User_12" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_13" Name="User_13" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_14" Name="User_14" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+    <UserParm Value="0.000000000000000000e+00" ID="User_15" Name="User_15" GroupName="User_Group" GroupDisplaySuffix="-1" Descript="Default Description" Type="0" UpperLimit="1.000000000000000000e+12" LowerLimit="-1.000000000000000000e+12"/>
+  </UserParmContainer>
+  <LinkMgr/>
+  <AdvLinkMgr/>
+  <VSPAEROSettings>
+    <ParmContainer>
+      <ID>DREAUIAOGV</ID>
+      <Name>Default</Name>
+      <VSPAERO>
+        <Alpha Value="5.000000000000000000e+00" ID="UZSZODBDKCI"/>
+        <Beta Value="0.000000000000000000e+00" ID="QCDNDTCDELD"/>
+        <GeomSet Value="0.000000000000000000e+00" ID="LSWJFSSLGAB"/>
+        <Mach Value="2.999999999999999889e-01" ID="TTJTRFJYXUD"/>
+        <MassSet Value="0.000000000000000000e+00" ID="POKBXVIXTEQ"/>
+        <NCPU Value="2.000000000000000000e+00" ID="BNNSFQVIVTG"/>
+        <NumMassSlice Value="1.000000000000000000e+01" ID="BSCUDEBDMBK"/>
+        <RefFlag Value="0.000000000000000000e+00" ID="CAIFMMPQZSV"/>
+        <Sref Value="1.000000000000000000e+02" ID="ONOFQVVQFOR"/>
+        <Xcg Value="0.000000000000000000e+00" ID="QMUXDIEGLQJ"/>
+        <Ycg Value="0.000000000000000000e+00" ID="QSNYHPBSLKV"/>
+        <Zcg Value="0.000000000000000000e+00" ID="RWLARRLLFEL"/>
+        <bref Value="1.000000000000000000e+00" ID="KRGGDGIMSKG"/>
+        <cref Value="1.000000000000000000e+00" ID="OQRYDJKLUXT"/>
+      </VSPAERO>
+    </ParmContainer>
+    <ReferenceGeomID></ReferenceGeomID>
+  </VSPAEROSettings>
+  <CfdSettings>
+    <ParmContainer>
+      <ID>ZPABVGOQQY</ID>
+      <Name>CFDMeshSettings</Name>
+      <DrawCFD>
+        <ColorTagsFlag Value="1.000000000000000000e+00" ID="FURKSWDMEUD"/>
+        <DrawBadMeshElements Value="1.000000000000000000e+00" ID="MUDZUCQUOWI"/>
+        <DrawFarField Value="1.000000000000000000e+00" ID="HDHUIKDTYOC"/>
+        <DrawFarFieldPreview Value="1.000000000000000000e+00" ID="VCKZJDRQQKD"/>
+        <DrawMesh Value="1.000000000000000000e+00" ID="TCMAEJUAXAU"/>
+        <DrawSourceWake Value="1.000000000000000000e+00" ID="HHRAZALGLNV"/>
+        <DrawSymmetryPlane Value="1.000000000000000000e+00" ID="GACHDTFRZVD"/>
+        <DrawWake Value="1.000000000000000000e+00" ID="YMMKZSCQKOJ"/>
+      </DrawCFD>
+      <ExportCFD>
+        <DAT_Export Value="1.000000000000000000e+00" ID="BCEPPVJUASD"/>
+        <GMSH_Export Value="1.000000000000000000e+00" ID="YXJBHMIHWCN"/>
+        <KEY_Export Value="1.000000000000000000e+00" ID="SLSAZUCNCHO"/>
+        <OBJ_Export Value="1.000000000000000000e+00" ID="THNOMBKFDBK"/>
+        <POLY_Export Value="1.000000000000000000e+00" ID="HLSPWWZAEHY"/>
+        <SRF_Export Value="1.000000000000000000e+00" ID="KLOJYOZFANS"/>
+        <STL_Export Value="1.000000000000000000e+00" ID="LSVBZNTQZPB"/>
+        <TKEY_Export Value="1.000000000000000000e+00" ID="LLXHMIAEWHJ"/>
+        <TRI_Export Value="1.000000000000000000e+00" ID="GVRNKMOWRCZ"/>
+      </ExportCFD>
+      <FarField>
+        <FarAbsSize Value="0.000000000000000000e+00" ID="XOHDMMLGOHX"/>
+        <FarComp Value="0.000000000000000000e+00" ID="JGNQZZERYLL"/>
+        <FarHeight Value="4.000000000000000000e+00" ID="RDSUPVEPHKX"/>
+        <FarLength Value="4.000000000000000000e+00" ID="PCSNVJIZBIG"/>
+        <FarManualLoc Value="0.000000000000000000e+00" ID="NPBKZDGNCDX"/>
+        <FarMesh Value="0.000000000000000000e+00" ID="XSGHRZWUTEU"/>
+        <FarWidth Value="4.000000000000000000e+00" ID="ILVWSWNVUYX"/>
+        <FarXLocation Value="0.000000000000000000e+00" ID="BQVGHQMOKRB"/>
+        <FarXScale Value="4.000000000000000000e+00" ID="WMTENGFYRHR"/>
+        <FarYLocation Value="0.000000000000000000e+00" ID="OISAVXIFYQK"/>
+        <FarYScale Value="4.000000000000000000e+00" ID="SLKBTRJDZWQ"/>
+        <FarZLocation Value="0.000000000000000000e+00" ID="QTRJKJIVQUZ"/>
+        <FarZScale Value="4.000000000000000000e+00" ID="LCRSUQNXFEH"/>
+        <HalfMesh Value="0.000000000000000000e+00" ID="WEIEALHUTMS"/>
+      </FarField>
+      <Global>
+        <IntersectSubSurfs Value="1.000000000000000000e+00" ID="OCKQOMIWBXC"/>
+        <Set Value="0.000000000000000000e+00" ID="KGTWZVDQZBH"/>
+      </Global>
+      <Wake>
+        <WakeAngle Value="0.000000000000000000e+00" ID="RELCOAHTLGO"/>
+        <WakeScale Value="2.000000000000000000e+00" ID="VGBPLMQZKDU"/>
+      </Wake>
+    </ParmContainer>
+    <FarFieldGeomID></FarFieldGeomID>
+  </CfdSettings>
+  <CFDGridDensity>
+    <ParmContainer>
+      <ID>CESFDUIQLL</ID>
+      <Name>CFDGridDensity</Name>
+      <CFDGridDensity>
+        <BaseLen Value="5.000000000000000000e-01" ID="SKBIGNQYSYA"/>
+        <FarNCircSeg Value="1.600000000000000000e+01" ID="XFIPLADXTBC"/>
+        <GrowRatio Value="1.300000000000000044e+00" ID="CZUTROTIJON"/>
+        <MaxFar Value="2.000000000000000000e+00" ID="DWERXWSKXAU"/>
+        <MaxFarGap Value="2.000000000000000042e-02" ID="POOODPZFRYH"/>
+        <MaxGap Value="5.000000000000000104e-03" ID="ZANVJWMVPOS"/>
+        <MinLen Value="1.000000000000000056e-01" ID="NXKVJNRELAC"/>
+        <NCircSeg Value="1.600000000000000000e+01" ID="KEOPOOUCLPY"/>
+        <RigorLimit Value="0.000000000000000000e+00" ID="VLHRGSIILYT"/>
+      </CFDGridDensity>
+    </ParmContainer>
+  </CFDGridDensity>
+  <FEAGridDensity>
+    <ParmContainer>
+      <ID>JGRHOCXQHS</ID>
+      <Name>FEAGridDensity</Name>
+      <FEAGridDensity>
+        <BaseLen Value="5.000000000000000000e-01" ID="XYBREXZMTGV"/>
+        <FarNCircSeg Value="1.600000000000000000e+01" ID="GTLWOCIBPUK"/>
+        <GrowRatio Value="1.300000000000000044e+00" ID="HHQSFRXAQZQ"/>
+        <MaxFar Value="2.000000000000000000e+00" ID="EMRBKQXKBTE"/>
+        <MaxFarGap Value="2.000000000000000042e-02" ID="ELHIMWGPMBR"/>
+        <MaxGap Value="5.000000000000000104e-03" ID="BKOAGWLRMDT"/>
+        <MinLen Value="1.000000000000000056e-01" ID="ZMQPQBCJTOH"/>
+        <NCircSeg Value="1.600000000000000000e+01" ID="GLZCWHKHHNQ"/>
+        <RigorLimit Value="0.000000000000000000e+00" ID="EZKQBQJKMOX"/>
+      </FEAGridDensity>
+    </ParmContainer>
+  </FEAGridDensity>
+  <ClippingMgr>
+    <ParmContainer>
+      <ID>CBJGYNWEMA</ID>
+      <Name>ClippingMgr</Name>
+      <Clipping>
+        <XGTClip Value="1.000000000000000000e+00" ID="XHSCTNCNQTF"/>
+        <XGTClipFlag Value="0.000000000000000000e+00" ID="NENRWJAHMEP"/>
+        <XLTClip Value="-1.000000000000000000e+00" ID="UJOPNQXAOYV"/>
+        <XLTClipFlag Value="0.000000000000000000e+00" ID="QVSVRGANIXP"/>
+        <YGTClip Value="1.000000000000000000e+00" ID="GFAVZOVLQUF"/>
+        <YGTClipFlag Value="0.000000000000000000e+00" ID="TDGXNQDSRRP"/>
+        <YLTClip Value="-1.000000000000000000e+00" ID="DPONFZBQQNO"/>
+        <YLTClipFlag Value="0.000000000000000000e+00" ID="UJDBKEBQKCL"/>
+        <ZGTClip Value="1.000000000000000000e+00" ID="DBIHDWCHHGH"/>
+        <ZGTClipFlag Value="0.000000000000000000e+00" ID="QHIXMLDZDAV"/>
+        <ZLTClip Value="-1.000000000000000000e+00" ID="DSXUJVVLRIE"/>
+        <ZLTClipFlag Value="0.000000000000000000e+00" ID="YCDADPWPXOR"/>
+      </Clipping>
+    </ParmContainer>
+  </ClippingMgr>
+  <SetNames>
+    <Set>All</Set>
+    <Set>Shown</Set>
+    <Set>Not_Shown</Set>
+    <Set>Set_0</Set>
+    <Set>Set_1</Set>
+    <Set>Set_2</Set>
+    <Set>Set_3</Set>
+    <Set>Set_4</Set>
+    <Set>Set_5</Set>
+    <Set>Set_6</Set>
+    <Set>Set_7</Set>
+    <Set>Set_8</Set>
+    <Set>Set_9</Set>
+  </SetNames>
+</Vsp_Geometry>
