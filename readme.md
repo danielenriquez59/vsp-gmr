@@ -9,7 +9,13 @@ OpenVSP (Vehicle Sketch Pad) is a geometry modeling tool for conceptual aircraft
 
 ## How to Download Models
 
-Clone the repository to your machine and you should have access to all the files.
+Clone the repository to your machine and y
+
+## How to Pull the Repository
+
+1. Make sure you have Git cli installed
+2. Clone the repository `git clone https://github.com/danielenriquez59/vsp-gmr.git`
+3. You should be able to view all the models
 
 ## How to Push Models
 
