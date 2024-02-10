@@ -12,6 +12,8 @@
 ## Aircraft type
 The Evo3 is a high performance flexwing (FAI Class 1 Open) racing hang glider of 'topless' design (no kingpost). This glider has a large VG (variable geometry range), pulling VG tight pulls the sail tighter and so reducing the washout.
 
+![3D Evo](Avian_Evo3.stl)
+
 ## Model source
 This model is collated from a number of sources. Firstly a laser scan was made of the glider suspended inverted from the hang point with the VG full tight. The effect of gravity acting on the sail therefore was in the same direction as lift would act on it in flight, albeit of a lower magnitude and different distribution. Sail patterns and CAD of the frame geometry were used to tidy up the laser scan information into a definitive 3D CAD, which was used to create the sweep, twist and chord lengths. Sections were taken direct from the laser scan, cleaned up, splines fitted and turned into .dat files. This forms the 'VG Tight' wing shape in the model. Note: this represents a minimum level of washout of the essentially unloaded wing, in flight the washout will be higher due to loads.
 
