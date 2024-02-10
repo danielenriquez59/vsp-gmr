@@ -11,7 +11,7 @@
 # Avian Evo3
 ## Aircraft type
 The Evo3 is a high performance flexwing (FAI Class 1 Open) racing hang glider of 'topless' design (no kingpost). This glider has a large VG (variable geometry range), pulling VG tight pulls the sail tighter and so reducing the washout.
-
+![Evo piture](Avian_Evo3.png)
 ![3D Evo](Avian_Evo3.stl)
 
 ## Model source
