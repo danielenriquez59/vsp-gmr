@@ -1,10 +1,20 @@
-Model Name: Cuban 800
-Description: Full aircraft model.
-Model Fidelity: Unknown
-Author (optional): Unknown
-Email (optional):
+**Model Name:** Cuban 800
+**Description:** Full aircraft model.
+**Model Fidelity:** Unknown
+**Author (optional):** Unknown
+**Email (optional):**
 
 ---
+
+# Cuban 800
+
+## Aircraft type
+
+## Model Source
+
+Originally dowloaded from VSP hangar.
+
+### Copyright
 
 Copyright (c) 2024 [fullname]
 

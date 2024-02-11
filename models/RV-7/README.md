@@ -1,9 +1,19 @@
-Model Name: RV-7
-Description: Full aircraft model.
-Model Fidelity: Unknown
-Author (optional): Unknown
+**Model Name:** RV-7
+**Description:** Full aircraft model.
+**Model Fidelity:** Unknown
+**Author (optional):** Unknown
 
 ---
+
+# RV-7
+
+## Aircraft type
+
+## Model Source
+
+Originally dowloaded from VSP hangar.
+
+### Copyright
 
 Copyright (c) 2024 [fullname]
 

@@ -1,10 +1,20 @@
-Model Name: Prandtl-D Wing
-Description:
-Model Fidelity: 2
-Author (optional):
-Email (optional):
+**Model Name:** Prandtl-D Wing
+**Description:**
+**Model Fidelity:** 2
+**Author (optional):**
+**Email (optional):**
 
 ---
+
+# Prandtl-D Wing
+
+## Aircraft type
+
+## Model Source
+
+Originally dowloaded from VSP hangar.
+
+### Copyright
 
 Copyright (c) 2024 [fullname]
 

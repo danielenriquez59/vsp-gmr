@@ -1,10 +1,20 @@
-Model Name: Strut Gear
-Description: Simple strut and wheel landing gear custom component. Strut, wheel, and tire dimensions are adjustable. Several tire sizes are provided as presets for quickly modeling standard sizes. On/off button for a double bogie is provided.
-Model Fidelity: 4
-Author (optional): Michael Waddington
-Email (optional):
+**Model Name:** Strut Gear
+**Description:** Simple strut and wheel landing gear custom component. Strut, wheel, and tire dimensions are adjustable. Several tire sizes are provided as presets for quickly modeling standard sizes. On/off button for a double bogie is provided.
+**Model Fidelity:** 4
+**Author (optional):** Michael Waddington
+**Email (optional):**
 
 ---
+
+# Strut Gear
+
+## Aircraft type
+
+## Model Source
+
+Originally dowloaded from VSP hangar.
+
+### Copyright
 
 Copyright (c) 2024 [fullname]
 

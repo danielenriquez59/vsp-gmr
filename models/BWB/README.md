@@ -1,12 +1,24 @@
-Model Name: Blended Wing Body
-Description: This model demonstrates the use of blended wing sections, introduced in version 3.11.0. Also demonstrated is the use of conforming components to model the fuel tanks, which automatically deform as their parent component is deformed. Also, sub-surfaces are used to model the control surfaces. This model was roughly inspired by the MIT SAX-40 aircraft.
-Model Fidelity: 1
-Author (optional): Michael Kruger
-Email (optional):
+**Model Name:** Blended Wing Body
+
+**Description:** This model demonstrates the use of blended wing sections, introduced in version 3.11.0. Also demonstrated is the use of conforming components to model the fuel tanks, which automatically deform as their parent component is deformed. Also, sub-surfaces are used to model the control surfaces. This model was roughly inspired by the MIT SAX-40 aircraft.
+
+**Model Fidelity:** 1
+**Author:** Michael Kruger
+**Email:**
 
 ---
 
-Copyright (c) 2024 [fullname]
+# Blended Wing Body
+
+## Aircraft type
+
+## Model Source
+
+Originally dowloaded from VSP hangar.
+
+### Copyright
+
+Copyright (c) 2024 Unknown
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

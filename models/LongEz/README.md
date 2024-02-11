@@ -1,9 +1,19 @@
-Model Name: Long EZ
-Description: Full aircraft model.
-Model Fidelity: Unknown
-Author (optional): Unknown
+**Model Name:** Long EZ
+**Description:** Full aircraft model.
+**Model Fidelity:** Unknown
+**Author (optional):** Unknown
 
 ---
+
+# Rutan Long EZ
+
+## Aircraft type
+
+## Model Source
+
+Originally dowloaded from VSP hangar.
+
+### Copyright
 
 Copyright (c) 2024 [fullname]
 

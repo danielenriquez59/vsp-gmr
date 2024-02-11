@@ -1,10 +1,20 @@
-Model Name: Straight Gear
-Description: Landing Gear component
-Model Fidelity: 4
-Author (optional):
-Email (optional):
+**Model Name:** Straight Gear
+**Description:** Landing Gear component
+**Model Fidelity:** 4
+**Author (optional):**
+**Email (optional):**
 
 ---
+
+# Straight Gear
+
+## Aircraft type
+
+## Model Source
+
+Originally dowloaded from VSP hangar.
+
+### Copyright
 
 Copyright (c) 2024 [fullname]
 

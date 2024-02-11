@@ -1,10 +1,18 @@
-Model Name: Pants Wheel
-Description:
-Model Fidelity: Unknown
-Author (optional): Unknown
-Email (optional):
+**Model Name**:** Pants Wheel
+**Description**:**
+**Model Fidelity**:** Unknown
+**Author (optional)**:** Unknown
+**Email (optional)**:
 
 ---
+
+# Pants Wheel
+
+## Model Source
+
+Originally dowloaded from VSP hangar.
+
+### Copyright
 
 Copyright (c) 2024 [fullname]
 

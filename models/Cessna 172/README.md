@@ -1,12 +1,22 @@
-Model Name: Cessna 172
-Description: Full aircraft model.
-Model Fidelity: Unknown
-Author (optional): Unknown
-Email (optional):
+**Model Name:** Cessna 172
+**Description:** Full aircraft model.
+**Model Fidelity:** Unknown
+**Author (optional):** Unknown
+**Email (optional):**
 
 ---
 
-Copyright (c) 2024 [fullname]
+# Cessna 172
+
+## Aircraft type
+
+## Model Source
+
+Originally dowloaded from VSP hangar.
+
+### Copyright
+
+Copyright (c) 2024 Unknown
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
